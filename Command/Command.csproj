@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ArrayToPdf" Version="2.0.5" />
     <PackageReference Include="ClosedXML" Version="0.97.0" />
     <PackageReference Include="iTextSharp" Version="5.5.13.3" />
   </ItemGroup>
